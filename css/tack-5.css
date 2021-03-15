@@ -1,0 +1,276 @@
+body {
+    font-family: "Lato", sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+.navbar {
+    height: 100%;
+    width: 20%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: red;
+    float: left;
+    padding-top: 120px;
+  }
+  .navbar a{
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #ffffff;
+    display: block;
+    width: 100%;
+    text-align: left;
+text-transform: capitalize;
+  }
+  .navbar li{
+      list-style-type: none;
+  }
+  a:hover {
+    background-color: #ffffff;
+    color: black;
+  }
+  .name{
+      color: #ffffff;
+      padding-left: 15px;
+      padding-bottom: 50px;
+  }
+  .clear{
+      clear: both;
+  }
+  .continar{
+      float: right;
+      width: 80%;
+      height: 100%;
+      
+      
+  }
+hr{
+    width: 60px;
+    height: 10px;
+    background-color: red;
+    float: left;
+    border-radius: 15px;
+    border: red;
+    margin:0  0  30px 0;
+}
+.home{
+    margin-top: 50px;
+color: black;
+padding: 60px 0 0 60px;
+font-size: 25px;
+
+}
+ .show{
+padding: 0px 0 0 60px;
+color: red;
+font-size: 20px;
+}
+.shw{
+padding: 0px 0 0 60px;
+font-size: 15px;
+
+}
+.sos{
+     margin: 50px 0 15px 0px;
+     color: red;
+     font-size: 40px;
+font-weight: bold;
+ }
+ .pad{
+    margin: 50px 0 15px 0px;
+    color: red;
+    font-size: 40px;
+font-weight: bold;
+padding-top: 41%;
+ }
+ .im{
+     float: left;
+     width: 49%;
+     height: 300px;
+     background-image: url(https://www.w3schools.com/w3images/kitchenconcrete.jpg);
+     background-size: cover; 
+    }
+ .im2{
+     float: right;
+     width: 49%;
+     height: 300px;
+     background-image: url(https://www.w3schools.com/w3images/atrium.jpg);
+     background-size: cover; 
+   
+ }
+ .im3{
+     margin-top: 20px;
+    float: right;
+    width: 49%;
+    height: 300px;
+    background-image: url(https://www.w3schools.com/w3images/livingroom.jpg);
+    background-size: cover; 
+ }
+ .im4{
+    margin-top: 20px;
+    float: left;
+    width: 49%;
+    height: 300px;
+    background-image: url(https://www.w3schools.com/w3images/bedroom.jpg);
+    background-size: cover; 
+ }
+ .im5{
+    margin-top: 20px;
+    float: left;
+    width: 49%;
+    height: 300px;
+    background-image: url(https://www.w3schools.com/w3images/diningroom.jpg);
+    background-size: cover; 
+ }
+ .im6{
+    margin-top: 20px;
+    float: right;
+    width: 49%;
+    height: 300px;
+    background-image: url(https://www.w3schools.com/w3images/livingroom2.jpg);
+    background-size: cover; 
+ }
+ .em{
+     margin-top: 20px;
+     margin-left: 40px;
+ }
+.Designers{
+padding: 0px 0 0 60px;
+
+}
+
+.bold{
+    font-weight: bold;
+}
+.portfolio-item {
+    display: block;
+    background-color: rgb(221, 218, 218);
+    float: left;
+    text-align: left;
+    width: 30%;
+   
+}
+.mg{
+    width: 100%;
+}
+.mag{
+    margin: 0 15px 0 15px;
+}
+.gray{
+    color: gray;
+}
+p{
+    line-height: 25px;
+}
+.Packages{
+padding: 0px 0 0 60px;
+
+
+}
+
+.Basic{
+    list-style-type: none;
+    font-size: 20px;
+    width: 40%;
+    text-align: center;
+    float: left;
+    padding: 0px;
+}
+.root{
+    border-bottom: 1px solid #616161;
+    padding: 16px;
+    border: 1px solid rgb(189, 188, 188);
+    background-color: rgb(226, 226, 226);
+    
+}
+.tooo{
+    background-color: #616161;
+    padding: 16px;
+    font-size: 20px;
+    color: #ffffff;
+}
+.mony{
+    font-weight: 400;
+    margin: 10px 0;
+}
+.perroom{
+    color: gray;
+}
+.but{
+    width: 100px;
+    height: 40px;
+    background-color: #ffffff;
+    border: #ffffff;
+    color: black;
+    font-size: 15px;
+}
+.but:hover{
+    background-color: black;
+    color: #ffffff;
+}
+.Pro{
+    list-style-type: none;
+    font-size: 20px;
+    width: 40%;
+    text-align: center;
+    float: right;
+    margin-right: 120px;
+    padding: 0px;
+}
+.too{
+    background-color: red;
+    padding: 16px;
+    font-size: 20px;
+    color: #ffffff;
+}
+.buut{
+    width: 100px;
+    height: 40px;
+    background-color: red;
+    border: #ffffff;
+    color:#ffffff;
+    font-size: 15px;
+}
+.buut:hover{
+    background-color: black;
+    color: #ffffff;
+}
+.Contact{
+padding: 0px 0 0 60px;
+
+}
+#name{
+    width: 900px;
+    height: 40px;
+    margin-bottom: 20px;
+}
+#email{
+    width: 900px;
+    height: 40px;
+margin-bottom: 20px;
+}
+#message{
+    width: 900px;
+    height: 40px;
+margin-bottom: 20px;
+}
+#submit{
+    width: 900px;
+    height: 40px;
+margin-top: 20px; 
+margin-bottom: 40px;
+background-color: red;
+border: red;
+color: #ffffff;
+}
+#submit:hover{
+    background-color: gray;
+    color: black;
+}
+.dd{
+    width: 100%;
+    height: 30%;
+    background-color: #f1f1f1;
+}

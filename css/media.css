@@ -1,0 +1,121 @@
+@media (min-width: 993px) and (max-width: 1024px){
+.continar{
+    float: right;
+}
+.home{
+    margin-left: 90px;
+}
+.show{
+    margin-left: 90px;
+}
+.shw{
+    margin-left: 90px;
+}
+.Designers{
+    margin-left: 90px;
+}
+.Packages{
+    margin-left: 90px;
+}
+.Contact{
+    margin-left: 90px;
+}
+.Packages{
+
+    padding-top: 130px;
+}
+#name{
+    width: 650px;
+}
+#email{
+    width: 650px;
+}
+#message{
+    width: 650px;
+}
+#submit{
+    width: 650px;
+}
+}
+@media (min-width: 768px) and (max-width: 992px){
+.continar{
+    float: none;
+    width: 92%;
+}
+
+.hh{
+    width: 49%;
+    height: 200px;
+}
+
+.Packages{
+
+    padding-top: 170px;
+}
+.Pro{
+    margin-right: 0px;
+    width: 49%;
+}
+.Basic{
+    width: 49%;
+}
+
+#name{
+    width: 550px;
+}
+#email{
+    width: 550px;
+}
+#message{
+    width: 550px;
+}
+#submit{
+    width: 550px;
+}
+}
+@media (min-width: 320px) and (max-width: 767px){
+    .continar{
+        float: none;
+        width: 92%;
+    }
+    .hh{
+        width: 49%;
+        height: 100px;
+    }
+    .portfolio-item {
+        width: 80%;
+    }
+    .mag {
+        margin: 15px 0 15px 0;
+    }
+        .jj{
+
+            margin-bottom: 60px;
+        }
+        .Basic{
+            width: 90%;
+        }
+        .Pro{
+            width: 90%;
+            margin-right: 24px;
+        }
+        #name{
+            width: 90%;
+        }
+        #email{
+            width: 90%;
+        }
+        #message{
+            width: 90%;
+        }
+        #submit{
+            width: 90%;
+        }
+        .dd{
+            width: 110%;
+            
+        }
+        .px{
+            font-size: 14px;
+        }
+}
